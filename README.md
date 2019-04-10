@@ -1,7 +1,9 @@
 # 球谐光照
 
-| ![](samples/ball.jpg)  | ![](samples/bunny.jpg)  | ![](samples/teapot.jpg)  |
+| ![](screenshot/ball.jpg)  | ![](screenshot/bunny.jpg)  | ![](screenshot/teapot.jpg)  |
 |---|---|---|
+
+[演示视频](https://www.bilibili.com/video/av48910058/)
 
 ## 简介
 
