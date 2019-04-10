@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sampler", "sampler\sampler.vcxproj", "{DC73922A-74ED-4708-A138-18BE3A89D9A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "framework", "framework\framework.vcxproj", "{CDCF46EF-A6E1-4AAA-AD85-7BAC04E4B3B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lighting", "lighting\lighting.vcxproj", "{02019375-C90F-4466-8655-CB93B8C2273C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC73922A-74ED-4708-A138-18BE3A89D9A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC73922A-74ED-4708-A138-18BE3A89D9A4}.Debug|x86.Build.0 = Debug|Win32
+		{DC73922A-74ED-4708-A138-18BE3A89D9A4}.Release|x86.ActiveCfg = Release|Win32
+		{DC73922A-74ED-4708-A138-18BE3A89D9A4}.Release|x86.Build.0 = Release|Win32
+		{CDCF46EF-A6E1-4AAA-AD85-7BAC04E4B3B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDCF46EF-A6E1-4AAA-AD85-7BAC04E4B3B1}.Debug|x86.Build.0 = Debug|Win32
+		{CDCF46EF-A6E1-4AAA-AD85-7BAC04E4B3B1}.Release|x86.ActiveCfg = Release|Win32
+		{CDCF46EF-A6E1-4AAA-AD85-7BAC04E4B3B1}.Release|x86.Build.0 = Release|Win32
+		{02019375-C90F-4466-8655-CB93B8C2273C}.Debug|x86.ActiveCfg = Debug|Win32
+		{02019375-C90F-4466-8655-CB93B8C2273C}.Debug|x86.Build.0 = Debug|Win32
+		{02019375-C90F-4466-8655-CB93B8C2273C}.Release|x86.ActiveCfg = Release|Win32
+		{02019375-C90F-4466-8655-CB93B8C2273C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80DB42C9-491D-4186-9603-2120673A52E5}
+	EndGlobalSection
+EndGlobal

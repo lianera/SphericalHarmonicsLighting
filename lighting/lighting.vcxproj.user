@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>16 ../data/CNTower jpg ../data/CoitTower2 jpg ../data/Footballfield2 jpg ../data/FortPoint jpg ../data/GoldenGateBridge3 jpg ../data/hornstullsstrand jpg ../data/House jpg ../data/LancellottiChapel jpg ../data/Lycksele3 jpg ../data/MarriottMadisonWest jpg ../data/SaintLazarusChurch2 jpg ../data/SanFrancisco jpg ../data/Sodermalmsallen jpg ../data/Stairs jpg ../data/Tallinn jpg ../data/Yokohama jpg 5 ../data/bunny.obj ../data/dragon.obj ../data/laurana.obj ../data/sphere.obj ../data/teapot.obj</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>16 ../data/CNTower jpg ../data/CoitTower2 jpg ../data/Footballfield2 jpg ../data/FortPoint jpg ../data/GoldenGateBridge3 jpg ../data/hornstullsstrand jpg ../data/House jpg ../data/LancellottiChapel jpg ../data/Lycksele3 jpg ../data/MarriottMadisonWest jpg ../data/SaintLazarusChurch2 jpg ../data/SanFrancisco jpg ../data/Sodermalmsallen jpg ../data/Stairs jpg ../data/Tallinn jpg ../data/Yokohama jpg 5 ../data/bunny.obj ../data/dragon.obj ../data/laurana.obj ../data/sphere.obj ../data/teapot.obj</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

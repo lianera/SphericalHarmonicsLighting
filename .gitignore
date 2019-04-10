@@ -1,0 +1,9 @@
+data/
+.vs/
+*.jpg
+*.png
+*.obj
+*.ply
+*.exe
+Debug/
+Release/
